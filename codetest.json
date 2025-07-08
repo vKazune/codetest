@@ -1,0 +1,348 @@
+{
+    "Release": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 30,
+            "month": 4
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 31,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000,
+                "Gold": 3500
+            }
+        }
+    },
+    "SorryForDelay": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 11,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000
+            },
+            "Items": {
+                "TraitReroll": 10,
+                "Spell": 10
+            }
+        }
+    },
+    "50KActive": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 800,
+                "Gold": 3500
+            },
+            "Items": {
+                "TraitReroll": 2
+            }
+        }
+    },
+    "1MVisits": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 800,
+                "Gold": 5500
+            },
+            "Items": {
+                "TraitReroll": 5
+            }
+        }
+    },
+    "BugSaga": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 16,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 3500
+            },
+            "Items": {
+                "TraitReroll": 5
+            }
+        }
+    },
+    "InBugSagaWeTrust": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000,
+                "Gold": 4000
+            },
+            "Items": {
+                "TraitReroll": 20
+            }
+        }
+    },
+    "10MVisits": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 18,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 2500
+            },
+            "Items": {
+                "TraitReroll": 3
+            }
+        }
+    },
+    "200kMembers": {
+        "LevelRequired": 5,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 19,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 2500
+            },
+            "Items": {
+                "TraitReroll": 2
+            }
+        }
+    },
+    "HeadLessSaga": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 20,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000,
+                "Gold": 3000
+            },
+            "Items": {
+                "TraitReroll": 10,
+                "Spell": 10,
+                "SuperSpell": 5
+            }
+        }
+    },
+    "100KFavorites": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 22,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 2500
+            },
+            "Items": {
+                "TraitReroll": 3
+            }
+        }
+    },
+    "300KLike": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 22,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 3000
+            },
+            "Items": {
+                "TraitReroll": 3
+            }
+        }
+    },
+    "BossHidden": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 10,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 22,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500,
+                "Gold": 3500
+            },
+            "Items": {
+                "TraitReroll": 10
+            }
+        }
+    },
+    "50MVisit": {
+        "LevelRequired": 10,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 28,
+            "month": 5
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 1,
+            "month": 6
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000,
+                "Gold": 5000
+            },
+            "Items": {
+                "TraitReroll": 10,
+                "SuperSpell": 5,
+                "Spell": 5
+            }
+        }
+    },
+    "400KLikes": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 6,
+            "month": 6
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 14,
+            "month": 6
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gold": 10000
+            },
+            "Items": {
+                "TraitReroll": 5,
+                "Takoyaki": 50
+            }
+        }
+    },
+    "Firefighting": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 6,
+            "month": 6
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 31,
+            "month": 6
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 2000,
+                "Gold": 5000
+            },
+            "Items": {
+                "TraitReroll": 5,
+                "Spell": 5
+            }
+        }
+    },
+    "MaintenanceSaga": {
+        "LevelRequired": 30,
+        "TimeRelease": {
+            "year": 2025,
+            "day": 6,
+            "month": 6
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 10,
+            "month": 6
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 50,
+                "SuperSpell": 10,
+                "Spell": 25,
+                "PetEgg": 1
+            }
+        }
+    }
+}
