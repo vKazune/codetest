@@ -7,7 +7,7 @@
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 31,
+            "day": 30,
             "month": 5
         },
         "Rewards": {
@@ -75,7 +75,7 @@
                 "Gems": 1000
             },
             "Items": {
-                "TraitReroll": 10,
+                "TraitReroll": 10
             }
         }
     },
@@ -96,7 +96,7 @@
             },
             "Items": {
                 "TraitReroll": 10,
-                "Spell": 10
+                "Spell": 10,
                 "Rice_Bowl": 3
             }
         }
@@ -373,7 +373,7 @@
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 31,
+            "day": 30,
             "month": 6
         },
         "Rewards": {
