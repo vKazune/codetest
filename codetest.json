@@ -79,7 +79,7 @@
             }
         }
     },
-    "FreshRerolls": {
+    "FreshCode": {
         "TimeRelease": {
             "year": 2025,
             "day": 9,
@@ -92,10 +92,10 @@
         },
         "Rewards": {
             "NumberValue": {
-                "Gems": 100
+                "Gems": 1000
             },
             "Items": {
-                "TraitReroll": 80
+                "TraitReroll": 100
             }
         }
     },
