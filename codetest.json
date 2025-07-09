@@ -79,6 +79,26 @@
             }
         }
     },
+    "WeeklyUpdates": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 9,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 14,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000
+            },
+            "Items": {
+                "TraitReroll": 5
+            }
+        }
+    },
     "BossStudiosJJK": {
         "TimeRelease": {
             "year": 2025,
