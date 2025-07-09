@@ -38,6 +38,69 @@
             }
         }
     },
+    "JJKDelaySorry": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 9,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 14,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1500
+            },
+            "Items": {
+                "TraitReroll": 5,
+                "Spell": 5
+            }
+        }
+    },
+    "JJKZero": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 9,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 14,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000
+            },
+            "Items": {
+                "TraitReroll": 10,
+            }
+        }
+    },
+    "BossStudiosJJK": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 9,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 14,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 2000
+            },
+            "Items": {
+                "TraitReroll": 10,
+                "Spell": 10
+                "Rice_Bowl": 3
+            }
+        }
+    },
     "50KActive": {
         "TimeRelease": {
             "year": 2025,
