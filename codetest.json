@@ -38,6 +38,26 @@
             }
         }
     },
+    "NewVid!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 11,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 13,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500
+            },
+            "Items": {
+                "TraitReroll": 50,
+            }
+        }
+    },
     "JJKDelaySorry": {
         "TimeRelease": {
             "year": 2025,
