@@ -91,10 +91,35 @@
         },
         "Rewards": {
             "NumberValue": {
-                "Gems": 500
+                "Gems": 1000,
+                "Gold": 5500
             },
             "Items": {
-                "TraitReroll": 50
+                "TraitReroll": 50,
+                "SuperSpell": 5,
+                "PetEgg": 3
+            }
+        }
+    },
+    "UnitBalance": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 13,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 17,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000
+            },
+            "Items": {
+                "TraitReroll": 25,
+                "Rice_Bowl": 5,
+                "Spell": 5
             }
         }
     },
