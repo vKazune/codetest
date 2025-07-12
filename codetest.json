@@ -46,7 +46,7 @@
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 13,
+            "day": 14,
             "month": 7
         },
         "Rewards": {
@@ -54,7 +54,7 @@
                 "Gems": 500
             },
             "Items": {
-                "TraitReroll": 50,
+                "TraitReroll": 50
             }
         }
     },
