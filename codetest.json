@@ -58,6 +58,46 @@
             }
         }
     },
+    "ThanksForHelping": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 13,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 17,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1000
+            },
+            "Items": {
+                "TraitReroll": 10
+            }
+        }
+    },
+    "QoLTwo": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 13,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 17,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 500
+            },
+            "Items": {
+                "TraitReroll": 50
+            }
+        }
+    },
     "JJKDelaySorry": {
         "TimeRelease": {
             "year": 2025,
