@@ -50,12 +50,6 @@
             "month": 7
         },
         "Rewards": {
-            "NumberValue": {
-                "Gems": 0
-            },
-            "Items": {
-                "TraitReroll": 0
-            },
             "Skins": {
                 "GalaxyHonouredOne": true
             }
