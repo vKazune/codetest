@@ -47,7 +47,7 @@
         "TimeExpired": {
             "year": 2025,
             "day": 15,
-            "month": 7
+            "month": 8
         },
         "Rewards": {
             "Skins": {
@@ -72,6 +72,26 @@
             },
             "Items": {
                 "TraitReroll": 50
+            }
+        }
+    },
+    "YOUTUBEBACK!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 19,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 24,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1500
+            },
+            "Items": {
+                "TraitReroll": 25
             }
         }
     },
