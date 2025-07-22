@@ -38,20 +38,66 @@
             }
         }
     },
-    "GalaxySkin": {
+    "GalaxySaga": {
         "TimeRelease": {
             "year": 2025,
-            "day": 13,
+            "day": 22,
             "month": 7
         },
         "TimeExpired": {
             "year": 2025,
-            "day": 15,
+            "day": 29,
             "month": 8
         },
         "Rewards": {
             "Skins": {
                 "GalaxyHonouredOne": true
+            }
+            "Items": {
+                "TraitReroll": 50,
+                "Rice_Bowl": 10
+            }
+        }
+    },
+    "UPD3SOON!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 22,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 50,
+                "Spell": 25
+            }
+        }
+    },
+    "SlayerBossStudios!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 22,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 2000
+            },
+            "Items": {
+                "SuperSpell": 35,
+                "PetEgg": 5
             }
         }
     },
