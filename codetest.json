@@ -101,6 +101,27 @@
             }
         }
     },
+    "BrandonHa!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 22,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 1500
+            },
+            "Items": {
+                "TraitReroll": 40,
+                "PetEgg": 5
+            }
+        }
+    },
     "NewVid!!": {
         "TimeRelease": {
             "year": 2025,
