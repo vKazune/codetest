@@ -616,6 +616,133 @@
             }
         }
     },
+    "DemonSaga": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 50,
+                "Ramen": 10
+            }
+        }
+    },
+    "UPD3!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "Spell": 25,
+                "TraitReroll": 50
+            }
+        }
+    },
+     "SorryForDelay!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "SuperSpell": 50,
+                "TraitReroll": 50,
+                "PetEgg": 5
+            }
+        }
+    },
+     "NEWRARITY": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "SuperSpell": 35,
+                "TraitReroll": 25,
+                "PetEgg": 5
+            }
+        }
+    },
+     "TourneySoon!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000,
+                "Gold": 10000
+            },
+            "Items": {
+                "Ramen": 10,
+                "TraitReroll": 50
+            }
+        }
+    },
+     "BANKAISOON!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 29,
+            "month": 7
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000,
+                "Gold": 10000
+            },
+            "Items": {
+                "PetEgg": 10,
+                "TraitReroll": 50
+            }
+        }
+    },
     "MaintenanceSaga": {
         "LevelRequired": 30,
         "TimeRelease": {
