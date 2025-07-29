@@ -689,9 +689,6 @@
             "month": 8
         },
         "Rewards": {
-            "NumberValue": {
-                "Gems": 5000
-            },
             "Items": {
                 "SuperSpell": 35,
                 "TraitReroll": 25,
