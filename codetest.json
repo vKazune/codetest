@@ -740,6 +740,111 @@
             }
         }
     },
+     "Beserk!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 8
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 50,
+                "Ramen": 10
+            }
+        }
+    },
+     "QOL3!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 25,
+                "Spell": 25
+            }
+        }
+    },
+    "Mitsuri!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 10,
+                "PetEgg": 5,
+                "SuperSpell": 50
+            }
+        }
+    },
+    "Ragemode!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 25,
+                "PetEgg": 5,
+                "Spell": 35
+            }
+        }
+    },
+    "GRIFFITH!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gold": 10000,
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 50,
+                "PetEgg": 10
+            }
+        }
+    },
     "MaintenanceSaga": {
         "LevelRequired": 30,
         "TimeRelease": {
