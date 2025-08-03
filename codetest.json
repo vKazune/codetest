@@ -845,6 +845,27 @@
             }
         }
     },
+    "SorryForUpdate4Shutdown!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 3,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 50,
+                "PetEgg": 5
+            }
+        }
+    },
     "MaintenanceSaga": {
         "LevelRequired": 30,
         "TimeRelease": {
