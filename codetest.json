@@ -866,6 +866,89 @@
             }
         }
     },
+    "BleachUpdMerge": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 11,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 15,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 50,
+                "Spell": 25
+            }
+        }
+    },
+    "BackAndBetter": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 11,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 15,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 50,
+                "SuperSpell": 5
+            }
+        }
+    },
+    "SorryForDelayBleach": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 11,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 15,
+            "month": 5
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 50,
+                "PetEgg": 5
+            }
+        }
+    },
+    "QoLUpd4.5": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 11,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 15,
+            "month": 5
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 50,
+                "SuperSpell": 10,
+                "Spell": 25,
+                "PetEgg": 1
+            }
+        }
+    },
     "MaintenanceSaga": {
         "LevelRequired": 30,
         "TimeRelease": {
