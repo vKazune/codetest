@@ -908,6 +908,87 @@
             }
         }
     },
+    "DemonSlayerFinallyDone": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 24,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 2500
+            },
+            "Items": {
+                "TraitReroll": 45,
+                "PetEgg": 5
+            }
+        }
+    },
+    "WikiRelease!!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 24,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000
+            },
+            "Items": {
+                "TraitReroll": 25,
+                "PetEgg": 10
+            }
+        }
+    },
+    "25Min!!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 24,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 8
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 25
+            }
+        }
+    },
+    "Rengoku!!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 24,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2027,
+            "day": 29,
+            "month": 8
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gold": 3000,
+                "Gems": 2000
+            },
+            "Items": {
+                "TraitReroll": 1,
+                "Spell": 4
+            }
+        }
+    },
     "SorryForDelayBleach": {
         "TimeRelease": {
             "year": 2025,
