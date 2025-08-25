@@ -967,6 +967,23 @@
             }
         }
     },
+    "SixSevenMango!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 24,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 29,
+            "month": 8
+        },
+        "Rewards": {
+            "Items": {
+                "TraitReroll": 67
+            }
+        }
+    },
     "Free-rin": {
         "TimeRelease": {
             "year": 2025,
