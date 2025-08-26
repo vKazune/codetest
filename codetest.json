@@ -1023,6 +1023,27 @@
             }
         }
     },
+    "UPD5EVENT!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 26,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 1,
+            "month": 9
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gold": 2000,
+            },
+            "Items": {
+                "TraitReroll": 50,
+                "Spell": 15
+            }
+        }
+    },
     "SorryForDelayBleach": {
         "TimeRelease": {
             "year": 2025,
