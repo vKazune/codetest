@@ -1023,6 +1023,96 @@
             }
         }
     },
+    "TheOneGurtIsReal!!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 26,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 1,
+            "month": 9
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000,
+                "Gold": 10000
+            },
+            "Items": {
+                "TraitReroll": 45,
+                "Spell": 25,
+                "SuperSpell": 25
+            }
+        }
+    },
+    "4DaysBalancing!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 26,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 1,
+            "month": 9
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 5000,
+                "Gold": 25000
+            },
+            "Items": {
+                "TraitReroll": 35,
+                "Spell": 25,
+                "SuperSpell": 35,
+                "PetEgg": 10
+            }
+        }
+    },
+    "2MoreBugs!!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 26,
+            "month": 8
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 1,
+            "month": 9
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 2000
+            },
+            "Items": {
+                "TraitReroll": 67,
+                "Spell": 30,
+                "PetEgg": 10
+            }
+        }
+    },
+    "MoreSixSeven!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 1,
+            "month": 9
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 9
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 7500
+            },
+            "Items": {
+                "TraitReroll": 75,
+                "SuperSpell": 25
+            }
+        }
+    },
     "UPD5EVENT!": {
         "TimeRelease": {
             "year": 2025,
