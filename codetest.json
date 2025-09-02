@@ -1092,6 +1092,28 @@
             }
         }
     },
+    "WhosHungry!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 2,
+            "month": 9
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 9
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gold": 10000
+            },
+            "Items": {
+                "SoulCandy": 20,
+                "Meat Bone": 67,
+                "Ramen": 1
+            }
+        }
+    },
     "HereIsAnExtraCode!!": {
         "TimeRelease": {
             "year": 2025,
