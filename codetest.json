@@ -1092,6 +1092,28 @@
             }
         }
     },
+    "HereIsAnExtraCode!!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 2,
+            "month": 9
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 7,
+            "month": 9
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 8000,
+                "Gold": 20000
+            },
+            "Items": {
+                "TraitReroll": 75,
+                "Spell": 40
+            }
+        }
+    },
     "MoreSixSeven!!": {
         "TimeRelease": {
             "year": 2025,
