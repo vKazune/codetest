@@ -1114,6 +1114,27 @@
             }
         }
     },
+    "FlyLikeAButterfly!": {
+        "TimeRelease": {
+            "year": 2025,
+            "day": 7,
+            "month": 9
+        },
+        "TimeExpired": {
+            "year": 2025,
+            "day": 10,
+            "month": 9
+        },
+        "Rewards": {
+            "NumberValue": {
+                "Gems": 2000,
+            },
+            "Items": {
+                "TraitReroll": 50,
+                "Spell": 20
+            }
+        }
+    },
     "HereIsAnExtraCode!!": {
         "TimeRelease": {
             "year": 2025,
